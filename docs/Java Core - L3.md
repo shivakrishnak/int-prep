@@ -10,6 +10,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
+---
 
 # Java Core - L3 Advanced Generics
 
