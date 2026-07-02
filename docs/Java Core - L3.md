@@ -4,7 +4,12 @@ title: "Java Core - L3"
 nav_order: 3
 ---
 
----
+## Table of contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 
 # Java Core - L3 Advanced Generics
 

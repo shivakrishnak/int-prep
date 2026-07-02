@@ -4,6 +4,12 @@ title: "Java Core - L0 to L2"
 nav_order: 2
 ---
 
+## Table of contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 
 # Java Core - L0 Orientation
 
