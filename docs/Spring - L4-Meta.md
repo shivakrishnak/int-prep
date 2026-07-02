@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Spring - L0 to L3"
+title: "Spring - L4 to Meta"
 nav_order: 12
-permalink: /spring-l4-meta/
-render_with_liquid: false
 ---
 
 ---
